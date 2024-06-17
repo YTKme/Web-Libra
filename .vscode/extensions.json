@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "angular.ng-template",
     "ms-vscode-remote.remote-wsl",
     "dbaeumer.vscode-eslint",
     "ms-python.autopep8",
